@@ -20,7 +20,7 @@
 
 
 
-<div style="display: inline-block">
+<div align='center' style="display: inline-block"><br>
   
   <a href="mailto:lcavalcantis07@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
